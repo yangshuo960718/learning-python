@@ -1,2 +1,2 @@
 # learning-python
-the process of leearning python
+the process of learning python
